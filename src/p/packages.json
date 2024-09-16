@@ -1,7 +1,7 @@
 {
-  "name": "hello-world-website",
+  "name": "Test Web",
   "version": "1.0.0",
-  "description": "A simple Hello, World! website.",
+  "description": " Hello, World!",
   "main": "index.html",
   "scripts": {
     "start": "lite-server",
@@ -12,7 +12,7 @@
     "website",
     "javascript"
   ],
-  "author": "Your Name",
+  "author": "William George",
   "license": "MIT",
   "devDependencies": {
     "lite-server": "^2.6.1",
