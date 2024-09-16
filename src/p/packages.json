@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-website",
+  "version": "1.0.0",
+  "description": "A simple Hello, World! website.",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "hello-world",
+    "website",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "parcel": "^2.8.3"
+  }
+}
