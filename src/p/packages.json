@@ -1,7 +1,7 @@
 {
   "name": "Test Web",
   "version": "1.0.0",
-  "description": " Hello, World!",
+  "description": "Hello, World!",
   "main": "index.html",
   "scripts": {
     "start": "lite-server",
